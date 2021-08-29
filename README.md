@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n4nur
+- 👋 Hi, I’m @n4nur (Nur Shyk)
 - 👀 I’m interested in Oracle, Python, C#, Java, GUI, , SQL Server
 - 🌱 I’m currently learning C#, SQL Server
 - 💞️ I’m looking to collaborate on ...coming soon
